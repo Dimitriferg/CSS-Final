@@ -1,0 +1,38 @@
+li {
+  list-style: none;
+  font: black;
+  display: flex;
+  flex-direction: row;
+}
+
+footer {
+  margin: 1em;
+  text-align: center;
+  justify-content: baseline;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 300px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.con {
+  flex-direction: row;
+}
+
+.menu {
+  flex-direction: row;
+  justify-content: center;
+}
+
+.you {
+  justify-content: end;
+  padding-top: -10px;
+  color: black;
+  margin-top: -23px;
+}
+
+nav {
+  background-color: white;
+}
